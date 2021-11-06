@@ -1,0 +1,46 @@
+body {
+  background-color: #fafafa;
+}
+
+.header-mobile {
+  height: 60px;
+  box-shadow: 0 0 5px 7px #e4e4e4;
+}
+
+.header-mobile .btn-menu {
+  font-size: 50px;
+}
+
+.header-desktop .logo {
+  height: 100px;
+}
+
+.product-image {
+  height: 200px;
+}
+
+.product-description {
+  font-size: 24px;
+}
+
+.product-original-price {
+  text-decoration: line-through;
+  font-size: 24px;
+  color: gray;
+}
+
+.product-discount-price {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.info > p {
+  margin-bottom: 0;
+}
+
+.content {
+  margin-top: 150px;
+}
+.product-rating{
+  color: yellow;
+}
